@@ -1,0 +1,8 @@
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\bin\Debug\HBA.Main.exe.config
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\bin\Debug\HBA.Main.exe
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\bin\Debug\HBA.Main.pdb
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\bin\Debug\HBA.form.dll
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\bin\Debug\HBA.form.pdb
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\obj\Debug\HBA.Main.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\obj\Debug\HBA.Main.exe
+C:\Users\user\Documents\c# programs\HBA\HBA.Main\obj\Debug\HBA.Main.pdb

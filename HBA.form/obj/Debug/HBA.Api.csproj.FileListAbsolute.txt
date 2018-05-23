@@ -1,0 +1,5 @@
+C:\Users\user\Documents\c# programs\HBA\HBA.form\bin\Debug\HBA.form.dll
+C:\Users\user\Documents\c# programs\HBA\HBA.form\bin\Debug\HBA.form.pdb
+C:\Users\user\Documents\c# programs\HBA\HBA.form\obj\Debug\HBA.Api.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\c# programs\HBA\HBA.form\obj\Debug\HBA.form.dll
+C:\Users\user\Documents\c# programs\HBA\HBA.form\obj\Debug\HBA.form.pdb
